@@ -4,9 +4,8 @@
 Welcome to the **London Bike Rides Analysis** project repository! This project focuses on analyzing bike ride data in London, following a YouTube tutorial by **Mo Chen**. Using **Tableau**, I explored key insights into bike ride trends, including usage patterns, peak ride times, and weather conditions.  
 
 ## 📊 Tableau Dashboard  
-<img width="1710" alt="Screenshot 2025-03-08 at 3 46 24 PM" src="https://github.com/user-attachments/assets/17967ff4-a181-43a2-85b3-46269c43aab0" />
+<img width="1710" alt="Screenshot 2025-03-08 at 3 48 21 PM" src="https://github.com/user-attachments/assets/e9ec54c9-3662-4608-b7eb-312c37f48dde" />
 
-[![London Bike Rides Dashboard](https://your-image-link-here.com)](https://public.tableau.com/app/profile/sabina.chou3794/viz/LondonBikeRides-MovingAverageandHeatmap2/Dashboard)  
 
 🔗 **[Click here to access the Tableau Dashboard](https://public.tableau.com/app/profile/sabina.chou3794/viz/LondonBikeRides-MovingAverageandHeatmap2/Dashboard)**  
 
