@@ -34,10 +34,13 @@ The main visualization is built in **Tableau** and provides interactive insights
 - **Popular ride weather conditions**  
 
 ## 📁 Files Included  
-- **`london_bikeshare.csv`** – Raw dataset containing London bike ride information.  
-- **`london_bikeshare_analysis.twbx`** – Tableau workbook file with visualizations and data connections.  
-- **`london_bikeshare_final.xlsx`** – Final cleaned and preprocessed dataset (processed using Python).  
-- **`README.md`** – This README file containing project details and instructions.  
+- **`London Bike Rides - Moving Average and Heatmap (1).twbx`** – Tableau workbook file containing the visualizations and data connections.  
+- **`README.md`** – This README file providing project information and instructions.  
+- **`london-bike dataset.zip`** – Compressed file containing the raw dataset for London bike rides.  
+- **`london_bikes.ipynb`** – Jupyter Notebook used for data cleaning, preprocessing, and analysis.  
+- **`london_bikes_final.xlsx`** – Final cleaned and preprocessed dataset, prepared using Python.  
+- **`london_merged.csv`** – Merged dataset containing processed and combined data for analysis.  
+
 
 ## 🚀 Usage  
 Feel free to explore the **Tableau visualization** to gain insights into London’s bike ride trends. You can interact with the dashboards, apply filters, and analyze different patterns.  
