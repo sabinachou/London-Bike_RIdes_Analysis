@@ -3,8 +3,12 @@
 ## Project Overview  
 Welcome to the **London Bike Rides Analysis** project repository! This project focuses on analyzing bike ride data in London, following a YouTube tutorial by **Mo Chen**. Using **Tableau**, I explored key insights into bike ride trends, including usage patterns, peak ride times, and weather conditions.  
 
-## 📊 Link to Tableau Dashboard  
-[Click here to access the Tableau visualization](#)  
+## 📊 Tableau Dashboard  
+<img width="1710" alt="Screenshot 2025-03-08 at 3 46 24 PM" src="https://github.com/user-attachments/assets/17967ff4-a181-43a2-85b3-46269c43aab0" />
+
+[![London Bike Rides Dashboard](https://your-image-link-here.com)](https://public.tableau.com/app/profile/sabina.chou3794/viz/LondonBikeRides-MovingAverageandHeatmap2/Dashboard)  
+
+🔗 **[Click here to access the Tableau Dashboard](https://public.tableau.com/app/profile/sabina.chou3794/viz/LondonBikeRides-MovingAverageandHeatmap2/Dashboard)**  
 
 ## Purpose  
 The objective of this project is to analyze London bike rides and uncover insights such as:  
@@ -30,8 +34,6 @@ The main visualization is built in **Tableau** and provides interactive insights
 - **Peak ride hours**  
 - **Popular ride weather conditions**  
 
-🔗 [Access the Tableau Dashboard](#)  
-
 ## 📁 Files Included  
 - **`london_bikeshare.csv`** – Raw dataset containing London bike ride information.  
 - **`london_bikeshare_analysis.twbx`** – Tableau workbook file with visualizations and data connections.  
@@ -43,7 +45,3 @@ Feel free to explore the **Tableau visualization** to gain insights into London�
 
 ## 🤝 Contribution  
 Contributions are welcome! If you have suggestions for improvements, additional insights, or bug fixes, feel free to **open an issue** or **submit a pull request**.  
-
-## 📬 Contact  
-For any questions or inquiries about this project, feel free to reach out:  
-📧 **Email:** sabinachou@gmail.com  
